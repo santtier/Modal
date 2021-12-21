@@ -2,9 +2,9 @@
 
 ![](https://learnjavascript.today/images/comps/modal.gif)
 
-This project create 2 modals. One appears wnhe yoy click on the button and the other after 1 second you enter into the page.
+This project create 2 modals. One appears when yoy click on the button and the other after 1 second you enter into the page.
 ## General Info
-It has keyboard interaction and accesibility. I build this project to practice POO and Inheritance and Polymorphism because there may be a lot of modals and a lot of customizations 
+It has keyboard interaction and accesibility. I build this project to practice POO, especially Inheritance and Polymorphism because there may be a lot of modals and a lot of customizations 
 for each modal. In other words, I created this project to practice POO and build a Manual library that allow users to use the two types of modal I mentioned above with its proper customizations
 ## Technologies
 A list of technologies used within the project:
